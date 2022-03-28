@@ -1,0 +1,272 @@
+2022-03-27 02:54:12 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "comoper". in /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('comoper', Array)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('comoper', Array)
+#2 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "comoper". in /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('comoper', Array)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#3 {main}
+2022-03-27 02:54:12 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'TERM_PROGRAM' => 'Apple_Terminal'
+    'SHELL' => '/bin/bash'
+    'TERM' => 'xterm-256color'
+    'TMPDIR' => '/var/folders/qb/3l2bw9_50ln9jtc1msrby6g40000gp/T/'
+    'Apple_PubSub_Socket_Render' => '/private/tmp/com.apple.launchd.MANmklg4Jl/Render'
+    'TERM_PROGRAM_VERSION' => '404'
+    'OLDPWD' => '/var/www/html'
+    'TERM_SESSION_ID' => '934D2C30-629C-4011-8035-5DA23A0F51BD'
+    'USER' => 'Baran'
+    'SSH_AUTH_SOCK' => '/private/tmp/com.apple.launchd.XgPLdUXoPZ/Listeners'
+    'PATH' => '/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/php@7.0/sbin:/usr/local/opt/php@7.0/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands'
+    'PWD' => '/var/www/html/inotebook'
+    'XPC_FLAGS' => '0x0'
+    'XPC_SERVICE_NAME' => '0'
+    'SHLVL' => '1'
+    'HOME' => '/Users/Baran'
+    'LOGNAME' => 'Baran'
+    'LC_CTYPE' => 'UTF-8'
+    '_' => '/usr/local/bin/php'
+    '__CF_USER_TEXT_ENCODING' => '0x1F6:0x0:0x0'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1648349652.1836
+    'REQUEST_TIME' => 1648349652
+    'argv' => [
+        0 => 'yii'
+        1 => 'comoper'
+        2 => 'update'
+    ]
+    'argc' => 3
+]
+2022-03-27 02:55:17 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "comoper". in /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('comoper', Array)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('comoper', Array)
+#2 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "comoper". in /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('comoper', Array)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#3 {main}
+2022-03-27 02:55:17 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'TERM_PROGRAM' => 'Apple_Terminal'
+    'SHELL' => '/bin/bash'
+    'TERM' => 'xterm-256color'
+    'TMPDIR' => '/var/folders/qb/3l2bw9_50ln9jtc1msrby6g40000gp/T/'
+    'Apple_PubSub_Socket_Render' => '/private/tmp/com.apple.launchd.MANmklg4Jl/Render'
+    'TERM_PROGRAM_VERSION' => '404'
+    'OLDPWD' => '/var/www/html'
+    'TERM_SESSION_ID' => '934D2C30-629C-4011-8035-5DA23A0F51BD'
+    'USER' => 'Baran'
+    'SSH_AUTH_SOCK' => '/private/tmp/com.apple.launchd.XgPLdUXoPZ/Listeners'
+    'PATH' => '/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/php@7.0/sbin:/usr/local/opt/php@7.0/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands'
+    'PWD' => '/var/www/html/inotebook'
+    'XPC_FLAGS' => '0x0'
+    'XPC_SERVICE_NAME' => '0'
+    'SHLVL' => '1'
+    'HOME' => '/Users/Baran'
+    'LOGNAME' => 'Baran'
+    'LC_CTYPE' => 'UTF-8'
+    '_' => '/usr/local/bin/php'
+    '__CF_USER_TEXT_ENCODING' => '0x1F6:0x0:0x0'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1648349717.4923
+    'REQUEST_TIME' => 1648349717
+    'argv' => [
+        0 => 'yii'
+        1 => 'comoper'
+        2 => 'update'
+    ]
+    'argc' => 3
+]
+2022-03-27 03:01:59 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "composer". in /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('composer', Array)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('composer', Array)
+#2 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "composer". in /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('composer', Array)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#3 {main}
+2022-03-27 03:01:59 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'TERM_PROGRAM' => 'Apple_Terminal'
+    'SHELL' => '/bin/bash'
+    'TERM' => 'xterm-256color'
+    'TMPDIR' => '/var/folders/qb/3l2bw9_50ln9jtc1msrby6g40000gp/T/'
+    'Apple_PubSub_Socket_Render' => '/private/tmp/com.apple.launchd.MANmklg4Jl/Render'
+    'TERM_PROGRAM_VERSION' => '404'
+    'OLDPWD' => '/var/www/html'
+    'TERM_SESSION_ID' => '934D2C30-629C-4011-8035-5DA23A0F51BD'
+    'USER' => 'Baran'
+    'SSH_AUTH_SOCK' => '/private/tmp/com.apple.launchd.XgPLdUXoPZ/Listeners'
+    'PATH' => '/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/php@7.0/sbin:/usr/local/opt/php@7.0/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands'
+    'PWD' => '/var/www/html/inotebook'
+    'XPC_FLAGS' => '0x0'
+    'XPC_SERVICE_NAME' => '0'
+    'SHLVL' => '1'
+    'HOME' => '/Users/Baran'
+    'LOGNAME' => 'Baran'
+    'LC_CTYPE' => 'UTF-8'
+    '_' => '/usr/local/bin/php'
+    '__CF_USER_TEXT_ENCODING' => '0x1F6:0x0:0x0'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1648350119.3681
+    'REQUEST_TIME' => 1648350119
+    'argv' => [
+        0 => 'yii'
+        1 => 'composer'
+        2 => 'update'
+    ]
+    'argc' => 3
+]
+2022-03-27 03:02:47 [-][-][-][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php:721
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php(721): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php(636): yii\db\Connection->createPdoInstance()
+#2 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php(1066): yii\db\Connection->open()
+#3 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php(1053): yii\db\Connection->getMasterPdo()
+#4 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Command.php(261): yii\db\Connection->getSlavePdo()
+#5 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Command.php(1163): yii\db\Command->prepare(true)
+#6 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Command.php(410): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/mysql/Schema.php(320): yii\db\Command->queryAll()
+#8 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/mysql/Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#9 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Schema.php(756): yii\db\mysql\Schema->loadTableSchema('migration')
+#10 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Schema.php(192): yii\db\Schema->getTableMetadata('{{%migration}}', 'schema', true)
+#11 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/controllers/MigrateController.php(211): yii\db\Schema->getTableSchema('{{%migration}}', true)
+#12 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(908): yii\console\controllers\MigrateController->getMigrationHistory(NULL)
+#13 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(183): yii\console\controllers\BaseMigrateController->getNewMigrations()
+#14 [internal function]: yii\console\controllers\BaseMigrateController->actionUp(0)
+#15 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#16 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#17 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Controller.php(182): yii\base\Controller->runAction('', Array)
+#18 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Module.php(552): yii\console\Controller->runAction('', Array)
+#19 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('migrate', Array)
+#20 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('migrate', Array)
+#21 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#22 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#23 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php:647
+Stack trace:
+#0 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php(1066): yii\db\Connection->open()
+#1 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Command.php(261): yii\db\Connection->getSlavePdo()
+#3 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Command.php(1163): yii\db\Command->prepare(true)
+#4 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Command.php(410): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/mysql/Schema.php(320): yii\db\Command->queryAll()
+#6 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/mysql/Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#7 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Schema.php(756): yii\db\mysql\Schema->loadTableSchema('migration')
+#8 /private/var/www/html/inotebook/vendor/yiisoft/yii2/db/Schema.php(192): yii\db\Schema->getTableMetadata('{{%migration}}', 'schema', true)
+#9 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/controllers/MigrateController.php(211): yii\db\Schema->getTableSchema('{{%migration}}', true)
+#10 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(908): yii\console\controllers\MigrateController->getMigrationHistory(NULL)
+#11 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(183): yii\console\controllers\BaseMigrateController->getNewMigrations()
+#12 [internal function]: yii\console\controllers\BaseMigrateController->actionUp(0)
+#13 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#14 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#15 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Controller.php(182): yii\base\Controller->runAction('', Array)
+#16 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Module.php(552): yii\console\Controller->runAction('', Array)
+#17 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('migrate', Array)
+#18 /private/var/www/html/inotebook/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('migrate', Array)
+#19 /private/var/www/html/inotebook/vendor/yiisoft/yii2/base/Application.php(384): yii\console\Application->handleRequest(Object(yii\console\Request))
+#20 /private/var/www/html/inotebook/yii(23): yii\base\Application->run()
+#21 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 1045
+    [2] => Access denied for user 'root'@'localhost' (using password: NO)
+)
+
+2022-03-27 03:02:47 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'TERM_PROGRAM' => 'Apple_Terminal'
+    'SHELL' => '/bin/bash'
+    'TERM' => 'xterm-256color'
+    'TMPDIR' => '/var/folders/qb/3l2bw9_50ln9jtc1msrby6g40000gp/T/'
+    'Apple_PubSub_Socket_Render' => '/private/tmp/com.apple.launchd.MANmklg4Jl/Render'
+    'TERM_PROGRAM_VERSION' => '404'
+    'OLDPWD' => '/var/www/html'
+    'TERM_SESSION_ID' => '934D2C30-629C-4011-8035-5DA23A0F51BD'
+    'USER' => 'Baran'
+    'SSH_AUTH_SOCK' => '/private/tmp/com.apple.launchd.XgPLdUXoPZ/Listeners'
+    'PATH' => '/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/mysql@5.6/bin:/usr/local/opt/php@7.0/sbin:/usr/local/opt/php@7.0/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands'
+    'PWD' => '/var/www/html/inotebook'
+    'XPC_FLAGS' => '0x0'
+    'XPC_SERVICE_NAME' => '0'
+    'SHLVL' => '1'
+    'HOME' => '/Users/Baran'
+    'LOGNAME' => 'Baran'
+    'LC_CTYPE' => 'UTF-8'
+    '_' => '/usr/local/bin/php'
+    '__CF_USER_TEXT_ENCODING' => '0x1F6:0x0:0x0'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1648350167.1529
+    'REQUEST_TIME' => 1648350167
+    'argv' => [
+        0 => 'yii'
+        1 => 'migrate'
+    ]
+    'argc' => 2
+]
